@@ -7,6 +7,7 @@ group = "org.superbiz"
 version = "1.1.0-SNAPSHOT"
 description = "OpenEJB :: Web Examples :: MovieService"
 
+
 dependencies {
     compile project(":components:albums")
 
